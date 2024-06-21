@@ -27,6 +27,6 @@ if __name__ == '__main__':
 
 ------------
 
-# Merge Sort Allgo
+# Merge Sort Algo
 
 merge_short.py: simple recursive approach to Merge Sort Algorithm
