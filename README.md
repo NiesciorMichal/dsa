@@ -3,7 +3,8 @@
 hanoi_iterative.py: Iterative Approach.
 
 hanoi_recursive.py: Recursive Approach.
-=======
+
+------------
 # Shortest Path Algo
 
 Made with the help of freeCodeCamp: Learn Algorithm Design by Building a Shortest Path Algorithm.
