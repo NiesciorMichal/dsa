@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hanoi Tower Puzzle
 
 hanoi_iterative.py: Iterative Approach.
@@ -24,4 +23,3 @@ for start in 'B' and end in 'D':
 if __name__ == '__main__':
     shortest_path(graph=my_graph, start='B', target='D')
 ```
->>>>>>> shortest-path/main
