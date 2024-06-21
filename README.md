@@ -24,3 +24,9 @@ for start in 'B' and end in 'D':
 if __name__ == '__main__':
     shortest_path(graph=my_graph, start='B', target='D')
 ```
+
+------------
+
+# Merge Sort Allgo
+
+merge_short.py: simple recursive approach to Merge Sort Algorithm
