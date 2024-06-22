@@ -27,12 +27,15 @@ if __name__ == '__main__':
 
 ------------
 
-# Merge Sort Allgo
+# Merge Sort Algo
 
 merge_short.py: simple recursive approach to Merge Sort Algorithm
+<<<<<<< HEAD
 
 -
 
 # Sudoku Solver
 
 sudoku_solver.py: like the name says. Maybe not optimal but focused on OOP and functional programming.
+=======
+>>>>>>> 3212485bddf9a6902b8fd3e4218700d276aa1a95
