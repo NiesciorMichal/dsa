@@ -40,6 +40,11 @@ sudoku_solver.py: like the name says. Maybe not optimal but focused on OOP and f
 
 # Binary Search
 
+Examplary usage:  
+*Given a sorted array of integers and an integer called target, find the element that equals the target and return its index. If the element is not found, return -1.*
+
+Note: array <ins>must be sorted<ins/>.
+
 The search range is represented by the left and right indices that start from both ends of the array and move towards each other as we search. When moving the index, we discard elements and shrink the search range.
 
 Time Complexity: O(log(n))
